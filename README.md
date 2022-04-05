@@ -1,5 +1,5 @@
 ## Wel3Com Stats
-[![Something Broke](https://github-readme-stats.vercel.app/api/top-langs/?username=Wel3Com&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+[![Something Broke](https://github-readme-stats.vercel.app/api/top-langs/?username=Wel3Com&langs_count=8)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 ## Wel3Com Websites:
 
 <a href="http://comicserver.org">ComicServer App</a>
