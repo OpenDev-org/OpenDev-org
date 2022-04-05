@@ -1,6 +1,5 @@
 ## Wel3Com Stats
-![Something Broke](https://github-readme-stats.vercel.app/api?username=Wel3Com&show_icons=true&theme=gruvbox)
-
+[![Something Broke](https://github-readme-stats.vercel.app/api/top-langs/?username=Wel3Com&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 ## Wel3Com Websites:
 
 <a href="http://comicserver.org">ComicServer App</a>
