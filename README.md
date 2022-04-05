@@ -1,5 +1,5 @@
 ## Wel3Com Stats
-![Something Broke](https://github-readme-stats.vercel.app/api?username=Wel3Com&show_icons=true&theme=radical)
+![Something Broke](https://github-readme-stats.vercel.app/api?username=Wel3Com&show_icons=true&theme=gruvbox)
 
 ## Wel3Com Websites:
 
