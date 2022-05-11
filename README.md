@@ -4,7 +4,7 @@
 
 <a href="http://comicserver.org">ComicServer</a>
 <br>
-ComicServer Bot (Deprecated)
+<a href="http://bot.comicserver.org">ComicServer Express</a>
 <br>
 <a href="http://assets.comicserver.org">ComicServer Legacy/Assets</a>
 <br>
