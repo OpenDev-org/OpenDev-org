@@ -4,7 +4,7 @@
 
 <a href="http://comicserver.org">ComicServer</a>
 <br>
-<a href="http://bot.comicserver.org">ComicServer Express</a> (Mid 2022)
+<a href="http://eclyde.comicserver.repl.co">ComicServer Express</a> (Deprecated)
 <br>
 <a href="http://assets.comicserver.org">ComicServer Legacy/Assets</a>
 <br>
