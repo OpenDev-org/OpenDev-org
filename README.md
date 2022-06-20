@@ -1,13 +1,8 @@
 ## Wel3Com Stats
 [![Something Broke](https://github-readme-stats.vercel.app/api/top-langs/?username=Wel3Com&langs_count=8)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 ## Wel3Com Websites:
-
-<a href="http://comicserver.org">ComicServer</a>
+<a href="https://comicserver.org">AllcComicServer Subsets</a>
 <br>
-<a href="http://eclyde.comicserver.repl.co">ComicServer Express</a> (Deprecated)
-<br>
-<a href="http://assets.comicserver.org">ComicServer Legacy/Assets</a>
-<br>
-<a href="http://assets.comicserver.org/brawlcon">BrawlCon</a> (In partnership with <a href="https://github.com/Con-Co">Con Co.</a>)
+<a href="http://old.comicserver.org">ComicServer Legacy</a>
 <br>
 Among Us (Deprecated)
