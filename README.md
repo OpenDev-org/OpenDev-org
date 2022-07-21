@@ -1,5 +1,5 @@
 ## Wel3Com Stats
-[![Something Broke](https://github-readme-stats.vercel.app/api/top-langs/?username=Wel3Com&langs_count=8)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+[![Something Broke](https://github-readme-stats.vercel.app/api/top-langs/?username=Wel3Com&langs_count=8)
 ## Wel3Com Websites:
 <a href="https://blog.comicserver.org">Presswave</a>
 <br>
