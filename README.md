@@ -7,6 +7,6 @@
 <br>
 <a href="https://comicserver.org">ComicServer</a>
 <br>
-Among Us (Deprecated)
+Among Us (Deprecated Jan '21)
 <br>
-BrawlCon (Deprecated)
+BrawlCon (Deprecated Mar '22)
