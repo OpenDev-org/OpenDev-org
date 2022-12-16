@@ -3,10 +3,8 @@
 ## Wel3Com Websites:
 <a href="https://blog.comicserver.org">Presswave</a>
 <br>
-<a href="https://radio.comicserver.org">Passband</a>
-<br>
 <a href="https://comicserver.org">ComicServer</a>
 <br>
 Among Us (Deprecated Jan '21)
 <br>
-BrawlCon (Deprecated Mar '22)
+Passband (Deprecated Dec '22)
