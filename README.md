@@ -5,6 +5,8 @@
 <br>
 <a href="https://comicserver.org">ComicServer</a>
 <br>
+<a href="https://dispatch.comicserver.org">dispatch</a>
+<br>
 Among Us (Deprecated Jan '21)
 <br>
 Passband (Deprecated Dec '22)
