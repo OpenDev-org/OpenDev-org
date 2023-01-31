@@ -9,4 +9,4 @@
 <br>
 Among Us (Deprecated Jan '21)
 <br>
-Passband (Deprecated Dec '22)
+Passband (now available through dispatch)
