@@ -7,6 +7,6 @@
 <br>
 <a href="https://dispatch.comicserver.org">dispatch</a>
 <br>
-Among Us (Deprecated Jan '21)
+<a href="https://dispatch.comicserver.org/passband">Passband</a>
 <br>
-Passband (now available through dispatch)
+Among Us (Deprecated Jan '21)
