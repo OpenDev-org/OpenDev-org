@@ -1,12 +1,14 @@
-## Wel3Com Stats
-![Something Broke](https://github-readme-stats.vercel.app/api/top-langs/?username=Wel3Com&langs_count=8)
+## Stats
+![Something Broke](https://github-readme-stats.vercel.app/api/top-langs/?username=TeslaEleven&langs_count=4)
 ## Wel3Com Websites:
 <a href="https://blog.comicserver.org">Presswave</a>
 <br>
-<a href="https://comicserver.org">ComicServer</a>
+<a style="color:yellow">TuneGram (Soon!)</a>
 <br>
-<a href="https://dispatch.comicserver.org">dispatch</a>
+ComicServer (Deprecated Jan '24)
 <br>
-<a href="https://dispatch.comicserver.org/passband">Passband</a>
+dispatch (Deprecated July '23)
+<br>
+Passband (Deprecated July '23)
 <br>
 Among Us (Deprecated Jan '21)
