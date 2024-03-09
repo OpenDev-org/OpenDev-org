@@ -1,6 +1,5 @@
-## Stats
 ![Something Broke](https://github-readme-stats.vercel.app/api/top-langs/?username=TeslaEleven&langs_count=4)
-## Wel3Com Websites:
+## Websites:
 <a href="https://blog.comicserver.org">Presswave</a>
 <br>
 <a href="https://teslaeleven.github.io/TuneGram/">TuneGram</a>
