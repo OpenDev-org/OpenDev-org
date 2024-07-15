@@ -4,6 +4,8 @@
 <br>
 <a href="https://teslaeleven.github.io/TuneGram/">TuneGram</a>
 <br>
+<a href="https://teslaeleven.github.io/Cursori/">Cursori</a>
+<br>
 ComicServer (Deprecated Jan '24)
 <br>
 dispatch (Deprecated July '23)
