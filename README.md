@@ -1,10 +1,10 @@
-![Something Broke](https://github-readme-stats.vercel.app/api/top-langs/?username=TeslaEleven&langs_count=4)
+![Something Broke](https://github-readme-stats.vercel.app/api/top-langs/?username=TeslaEleven&langs_count=7)
 ## Websites:
 <a href="https://blog.comicserver.org">Presswave</a>
 <br>
-<a href="https://teslaeleven.github.io/TuneGram/">TuneGram</a>
+TuneGram (Deprecated July '24)
 <br>
-<a href="https://teslaeleven.github.io/Cursori/">Cursori</a>
+Cursori (Deprecated July '24)
 <br>
 ComicServer (Deprecated Jan '24)
 <br>
