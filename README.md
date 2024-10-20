@@ -4,7 +4,9 @@
 <br>
 <a href="https://teslaeleven.github.io/Cursori">Cursori</a>
 <br>
-ComicServer Daily (Limited Access)
+ComicServer Daily (limited access)
+<br>
+Control Daily (limited access)
 <details>
 <summary>Deprecated Services</summary>
 <li>TuneGram (Deprecated July '24)</li>
