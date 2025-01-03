@@ -5,6 +5,8 @@
 <a href="https://teslaeleven.github.io/Cursori">Cursori</a>
 <br>
 CursoriNow (limited access)
+<br>
+TuneGram for Spotify (coming soon)
 <details>
 <summary>Deprecated Services</summary>
 <li>TuneGram (Deprecated July '24)</li>
